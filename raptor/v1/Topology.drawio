@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T03:20:19.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="C88AH7RaRQ3Qt3WDtnZP" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-28T03:33:35.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="HdNGZpMwonlbDOjLcVi-" version="23.1.1" type="github" pages="2">
   <diagram name="Page-1" id="0v1_y2V5no5WbBdqq2O9">
     <mxGraphModel dx="1516" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="szgHFT6YsC6w4OVldKWj" name="ページ2">
-    <mxGraphModel dx="697" dy="505" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,8 +201,8 @@
         <mxCell id="X8AzJK7wlC9z1HIHxbJj-11" value="Battery&lt;br&gt;Pack" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="X8AzJK7wlC9z1HIHxbJj-9" vertex="1">
           <mxGeometry x="18.75" y="322.5" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="X8AzJK7wlC9z1HIHxbJj-17" value="Auxiliary DC Power" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="X8AzJK7wlC9z1HIHxbJj-9" vertex="1">
-          <mxGeometry x="18.75" y="450" width="60" height="90" as="geometry" />
+        <mxCell id="X8AzJK7wlC9z1HIHxbJj-17" value="DUT Auxiliary Power" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="X8AzJK7wlC9z1HIHxbJj-9" vertex="1">
+          <mxGeometry x="18.75" y="450" width="60" height="95" as="geometry" />
         </mxCell>
         <mxCell id="X8AzJK7wlC9z1HIHxbJj-18" value="Charge Controller" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" parent="X8AzJK7wlC9z1HIHxbJj-9" vertex="1">
           <mxGeometry x="138.75" y="460" width="85" height="70" as="geometry" />
