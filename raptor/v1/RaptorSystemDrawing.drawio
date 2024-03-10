@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T02:08:08.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="gSej3lWSBv2ryYvAw2w2" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T19:49:33.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="KXnnBRqpOCVFKtFeELA7" version="23.1.6" type="github">
   <diagram name="ページ1" id="HNU78MusErI2U60JnvWK">
-    <mxGraphModel dx="980" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="610.21" y="790.73" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-19" value="PHY &amp;amp; MAC" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1012.21" y="376" width="190" height="40" as="geometry" />
+          <mxGeometry x="1031.11" y="357.11" width="152.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-13" value="ESC Thermistor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410.21" y="340" width="130" height="30" as="geometry" />
@@ -71,19 +71,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-35" value="GPIO" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="971.8" y="619.11" width="270.82" height="40" as="geometry" />
+          <mxGeometry x="953.11" y="600.42" width="308.2" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-36" value="Battery Charge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1137.21" y="625.47" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-37" value="Status LED 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="585.47" width="80" height="30" as="geometry" />
+          <mxGeometry x="1137.21" y="585" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-38" value="Status LED 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="545" width="80" height="30" as="geometry" />
+          <mxGeometry x="1137.21" y="550" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-39" value="Status LED 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="505" width="80" height="30" as="geometry" />
+          <mxGeometry x="1137.21" y="515" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-41" value="BLDC Current Sense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410.21" y="620" width="130" height="30" as="geometry" />
@@ -95,22 +95,22 @@
           <mxGeometry x="1137.21" y="665" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-44" value="Logging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="1137.21" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-45" value="Command" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="1137.21" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-46" value="Binary Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="1137.21" y="380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-47" value="Alive Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1137.21" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="1137.21" y="420" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qDNlZB1fkXfrT6SnmScM-48" value="SDMMC" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="536.4" y="719.15" width="68.43" height="40.34" as="geometry" />
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-48" value="SDMMC" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="910" y="244.66000000000003" width="63.6" height="40.34" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-49" value="SD Card" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="410" y="710" width="130.21" height="60" as="geometry" />
+          <mxGeometry x="910" y="192.67" width="65.21" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-50" value="Battery&lt;br&gt;Relay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1137.21" y="705" width="80" height="30.51" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="1020" y="840.73" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-56" value="Ethernet and Configuration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="925.73" width="100" height="60" as="geometry" />
+          <mxGeometry x="995" y="910.73" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-57" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-55" target="qDNlZB1fkXfrT6SnmScM-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-60" value="BLDC Vibration Frequency Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="675.31" y="970.73" width="89.79" height="60" as="geometry" />
+          <mxGeometry x="665.1099999999999" y="970.73" width="89.79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-61" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-31" target="qDNlZB1fkXfrT6SnmScM-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-64" value="Runtime Telemetry Storage (Offline)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="250" y="719.15" width="125.11" height="60" as="geometry" />
+          <mxGeometry x="860.89" y="110" width="125.11" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-65" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-49" target="qDNlZB1fkXfrT6SnmScM-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
           <mxGeometry x="380" y="300" width="25.11" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-73" value="Logstream" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1255" y="290" width="125" height="40" as="geometry" />
+          <mxGeometry x="1250" y="236.67000000000002" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-75" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-44" target="qDNlZB1fkXfrT6SnmScM-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-76" value="Bidirectional Command Port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="345" width="120" height="40" as="geometry" />
+          <mxGeometry x="1255" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-77" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-45" target="qDNlZB1fkXfrT6SnmScM-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-78" value="High Bandwidth Test Runtime Telemetry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="397.07" width="120" height="52.93" as="geometry" />
+          <mxGeometry x="1255" y="350.65" width="120" height="52.93" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-79" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-46" target="qDNlZB1fkXfrT6SnmScM-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-80" value="Low Bandwidth system status and environment telemetry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="458.53" width="120" height="61.47" as="geometry" />
+          <mxGeometry x="1252.5" y="410" width="120" height="61.47" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-81" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-47" target="qDNlZB1fkXfrT6SnmScM-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -278,7 +278,7 @@
           <mxGeometry x="620" y="716" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-101" value="Storage of system metadata and calibration parameters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="610.21" y="210" width="129.79" height="60" as="geometry" />
+          <mxGeometry x="635.3100000000001" y="510" width="129.79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-102" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-101" target="qDNlZB1fkXfrT6SnmScM-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -287,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-103" value="Efficient transfer of Analog measurements to Ethernet PHY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="795.4200000000001" y="140" width="129.79" height="60" as="geometry" />
+          <mxGeometry x="800.0000000000001" y="505" width="129.79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-104" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-103" target="qDNlZB1fkXfrT6SnmScM-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-105" value="System Stasis Reset Trip" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="880.32" y="225" width="89.79" height="60" as="geometry" />
+          <mxGeometry x="900.48" y="420" width="89.79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-105" target="qDNlZB1fkXfrT6SnmScM-95" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -308,7 +308,7 @@
           <mxGeometry x="734" y="330" width="79.48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-109" value="Measurement timestamping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="750.21" y="220" width="100" height="50" as="geometry" />
+          <mxGeometry x="723.7900000000001" y="421.47" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDNlZB1fkXfrT6SnmScM-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-109" target="qDNlZB1fkXfrT6SnmScM-108" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -318,6 +318,42 @@
         </mxCell>
         <mxCell id="nCzB0HQsEZKGdOziy_q9-1" value="External&lt;br&gt;EEPROM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="986" y="194" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-2" value="RPM Count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1137.21" y="469.49" width="80" height="30.51" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-3" value="TIM" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="836.88" y="245.00000000000003" width="63.6" height="40.34" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-4" value="Buzzer" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="836.88" y="191.32999999999998" width="63.12" height="45.34" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-5" value="Sensor calibration&lt;br&gt;and device metadata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="999.7900000000001" y="110" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-5" source="nCzB0HQsEZKGdOziy_q9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1095.77" y="194" as="sourcePoint" />
+            <mxPoint x="869.77" y="981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-7" value="Runtime Telemetry Storage (Offline)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="722.45" y="110" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-8" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851.120120945946" y="191.32999999999993" as="sourcePoint" />
+            <mxPoint x="581.56" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-9" value="BLDC motor revolution counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="484.57" width="105" height="45.43" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-10" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-9" source="nCzB0HQsEZKGdOziy_q9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1261.31" y="505.53" as="sourcePoint" />
+            <mxPoint x="1334.31" y="500.53" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
