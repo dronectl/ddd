@@ -1,0 +1,361 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T19:49:33.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="KXnnBRqpOCVFKtFeELA7" version="23.1.6" type="github">
+  <diagram name="ページ1" id="HNU78MusErI2U60JnvWK">
+    <mxGraphModel dx="1023" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="610.21" y="300" width="460" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-2" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="373" y="474.57" width="396.94" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-5" value="ESC Control" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="840.21" y="840.73" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-6" value="CAN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="840.21" y="790.73" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-7" value="PWM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="900" y="790.73" width="50.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-8" value="UART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="960.21" y="790.73" width="109.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-10" value="I2C" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="610.21" y="790.73" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-19" value="PHY &amp;amp; MAC" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1031.11" y="357.11" width="152.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-13" value="ESC Thermistor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-15" value="BLDC Thermistor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-23" value="Battery Thermistor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-24" value="Weather Monitor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="610.21" y="840.23" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-25" value="Fuel Gauge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="770.21" y="840.73" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-26" value="Auxiliary Thermistor 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-27" value="Auxiliary Thermistor 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-28" value="Load Cell Thrust" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-29" value="Load Cell Torque 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="540" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-30" value="Load Cell Torque 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-31" value="3-axis accelerometer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="680.21" y="840.73" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-33" value="Select 1 communication stream" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="875.21" y="910.73" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-34" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-5" target="qDNlZB1fkXfrT6SnmScM-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070.21" y="765.73" as="sourcePoint" />
+            <mxPoint x="1120.21" y="715.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-35" value="GPIO" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="953.11" y="600.42" width="308.2" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-36" value="Battery Charge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="625.47" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-37" value="Status LED 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-38" value="Status LED 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-39" value="Status LED 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="515" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-41" value="BLDC Current Sense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="620" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-42" value="BLDC Voltage Sense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="410.21" y="660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-43" value="ESTOP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="665" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-44" value="Logging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-45" value="Command" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-46" value="Binary Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-47" value="Alive Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-48" value="SDMMC" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="910" y="244.66000000000003" width="63.6" height="40.34" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-49" value="SD Card" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="910" y="192.67" width="65.21" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-50" value="Battery&lt;br&gt;Relay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="705" width="80" height="30.51" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-51" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="986" y="245" width="84.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-55" value="Shell" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="840.73" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-56" value="Ethernet and Configuration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="995" y="910.73" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-57" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-55" target="qDNlZB1fkXfrT6SnmScM-56" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1089.79" y="895.73" as="sourcePoint" />
+            <mxPoint x="1285" y="730.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-58" value="Battery SoC, Coulomb Counting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="734" y="900.73" width="89.79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-59" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qDNlZB1fkXfrT6SnmScM-25" target="qDNlZB1fkXfrT6SnmScM-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="895.73" as="sourcePoint" />
+            <mxPoint x="965" y="730.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-60" value="BLDC Vibration Frequency Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="665.1099999999999" y="970.73" width="89.79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-61" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-31" target="qDNlZB1fkXfrT6SnmScM-60" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.79" y="910.73" as="sourcePoint" />
+            <mxPoint x="844.79" y="760.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-62" value="Ambient Pressure, Temperature, Relative Humidity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="900.73" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-63" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-24" target="qDNlZB1fkXfrT6SnmScM-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="890.73" as="sourcePoint" />
+            <mxPoint x="802" y="910.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-64" value="Runtime Telemetry Storage (Offline)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="860.89" y="110" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-65" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-49" target="qDNlZB1fkXfrT6SnmScM-64" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="890" as="sourcePoint" />
+            <mxPoint x="720" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-66" value="BLDC Electrical Power Consumption (Power In) and safety tripzones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="230" y="623.73" width="145.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-67" value="BLDC Mechanical Power Metrics (Power Out)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="230" y="520" width="145.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="380" y="620" width="25.11" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-69" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="380" y="500" width="25.11" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-70" value="Safety Tripzones and monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="247.89" y="360" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-71" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="380" y="300" width="25.11" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-73" value="Logstream" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="236.67000000000002" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-75" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-44" target="qDNlZB1fkXfrT6SnmScM-73" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1055" y="225" as="sourcePoint" />
+            <mxPoint x="1062" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-76" value="Bidirectional Command Port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-77" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-45" target="qDNlZB1fkXfrT6SnmScM-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="327" as="sourcePoint" />
+            <mxPoint x="1280" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-78" value="High Bandwidth Test Runtime Telemetry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="350.65" width="120" height="52.93" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-79" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-46" target="qDNlZB1fkXfrT6SnmScM-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="383" as="sourcePoint" />
+            <mxPoint x="1280" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-80" value="Low Bandwidth system status and environment telemetry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1252.5" y="410" width="120" height="61.47" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-81" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-47" target="qDNlZB1fkXfrT6SnmScM-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="431" as="sourcePoint" />
+            <mxPoint x="1290" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-82" value="Enable Battery Power Input" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="705" width="110" height="36.73" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-83" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-50" target="qDNlZB1fkXfrT6SnmScM-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="514" as="sourcePoint" />
+            <mxPoint x="1270" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-84" value="Aux Power Relay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1137.21" y="744.74" width="80" height="30.51" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-85" value="Enable Aux Power Input" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="756" width="100" height="36.73" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-86" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-84" target="qDNlZB1fkXfrT6SnmScM-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="730" as="sourcePoint" />
+            <mxPoint x="1280" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-87" value="Emergency Stop: cut power to DUT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="659.1099999999999" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-88" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-43" target="qDNlZB1fkXfrT6SnmScM-87" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="730" as="sourcePoint" />
+            <mxPoint x="1280" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-89" value="Battery Charge EN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-90" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-36" target="qDNlZB1fkXfrT6SnmScM-89" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="619.53" as="sourcePoint" />
+            <mxPoint x="1323" y="669.53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1222.62" y="507.72" width="20" height="112.28" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-93" value="General-Purpose Status LEDs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-95" value="WWDG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="925.21" y="330" width="79.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-96" value="DMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="823.7900000000001" y="330" width="89.79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-97" value="Flash (Paged EEPROM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="627.76" y="330" width="94.69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-100" value="STM32H723ZG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="620" y="716" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-101" value="Storage of system metadata and calibration parameters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="635.3100000000001" y="510" width="129.79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-102" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-101" target="qDNlZB1fkXfrT6SnmScM-97" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="754" as="sourcePoint" />
+            <mxPoint x="385" y="756" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-103" value="Efficient transfer of Analog measurements to Ethernet PHY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="800.0000000000001" y="505" width="129.79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-104" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-103" target="qDNlZB1fkXfrT6SnmScM-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585.1" y="724" as="sourcePoint" />
+            <mxPoint x="877.1" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-105" value="System Stasis Reset Trip" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="900.48" y="420" width="89.79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-105" target="qDNlZB1fkXfrT6SnmScM-95" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="846" y="280" as="sourcePoint" />
+            <mxPoint x="866" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-108" value="RTC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="734" y="330" width="79.48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-109" value="Measurement timestamping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="723.7900000000001" y="421.47" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qDNlZB1fkXfrT6SnmScM-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="qDNlZB1fkXfrT6SnmScM-109" target="qDNlZB1fkXfrT6SnmScM-108" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="280" as="sourcePoint" />
+            <mxPoint x="685" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-1" value="External&lt;br&gt;EEPROM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="986" y="194" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-2" value="RPM Count" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1137.21" y="469.49" width="80" height="30.51" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-3" value="TIM" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="836.88" y="245.00000000000003" width="63.6" height="40.34" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-4" value="Buzzer" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="836.88" y="191.32999999999998" width="63.12" height="45.34" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-5" value="Sensor calibration&lt;br&gt;and device metadata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="999.7900000000001" y="110" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-5" source="nCzB0HQsEZKGdOziy_q9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1095.77" y="194" as="sourcePoint" />
+            <mxPoint x="869.77" y="981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-7" value="Runtime Telemetry Storage (Offline)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="722.45" y="110" width="125.11" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-8" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851.120120945946" y="191.32999999999993" as="sourcePoint" />
+            <mxPoint x="581.56" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-9" value="BLDC motor revolution counter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="484.57" width="105" height="45.43" as="geometry" />
+        </mxCell>
+        <mxCell id="nCzB0HQsEZKGdOziy_q9-10" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="nCzB0HQsEZKGdOziy_q9-9" source="nCzB0HQsEZKGdOziy_q9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1261.31" y="505.53" as="sourcePoint" />
+            <mxPoint x="1334.31" y="500.53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
